@@ -1,4 +1,5 @@
 🚖 Ola Ride Booking Insights Dashboard
+
 📌 Project Overview
 This Power BI dashboard analyzes a fictional ride-booking dataset to uncover key operational and customer behavior insights for a ride-hailing service. The project replicates the kind of real-time analytics a platform like Ola or Uber would use to optimize performance, improve customer satisfaction, and monitor revenue flow.
 
